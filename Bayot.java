@@ -10,7 +10,7 @@
              padding: 0;
              box-sizing: border-box;
          }
-         /* Assign classes to match layout sectionsiuio */
+         /* Assign classes to match layout sectionsiyyu5 */
          .header { background: #f0f0f0; padding: 20px; text-align: center; }
          .menu-bar { background: #333; color: white; padding: 10px; }
          .menu-bar ul { list-style: none; display: flex; gap: 20px; }
